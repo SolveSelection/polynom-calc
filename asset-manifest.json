@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/polynom-calc/static/css/main.9fb81343.css",
-    "main.js": "/polynom-calc/static/js/main.071ff932.js",
+    "main.js": "/polynom-calc/static/js/main.06a52cf2.js",
     "static/js/787.3e92adf0.chunk.js": "/polynom-calc/static/js/787.3e92adf0.chunk.js",
     "index.html": "/polynom-calc/index.html",
     "main.9fb81343.css.map": "/polynom-calc/static/css/main.9fb81343.css.map",
-    "main.071ff932.js.map": "/polynom-calc/static/js/main.071ff932.js.map",
+    "main.06a52cf2.js.map": "/polynom-calc/static/js/main.06a52cf2.js.map",
     "787.3e92adf0.chunk.js.map": "/polynom-calc/static/js/787.3e92adf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fb81343.css",
-    "static/js/main.071ff932.js"
+    "static/js/main.06a52cf2.js"
   ]
 }
